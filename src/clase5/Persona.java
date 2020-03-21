@@ -5,9 +5,9 @@ public class Persona {
     private int edad;
     private String genero;
 
-    public Persona(String nombre) {
-        System.out.println("Se está estableciendo el nombre en el constructor de la clase PERSONA");
-    }
+//    public Persona(String nombre) {
+//        System.out.println("Se está estableciendo el nombre en el constructor de la clase PERSONA");
+//    }
 
     public String getNombre() {
         return nombre;

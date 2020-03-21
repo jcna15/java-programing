@@ -4,10 +4,10 @@ public class Empleado extends Persona{
     private String idEmpleado;
     private String cargo;
 
-    public Empleado() {
-        super("Nix");
-        System.out.println("Este mensaje se muestra en la clase EMPLEADO");
-    }
+    //public Empleado() {
+    //    super("Nix");
+    //    System.out.println("Este mensaje se muestra en la clase EMPLEADO");
+    //}
 
     public String getIdEmpleado() {
         return idEmpleado;
